@@ -28,4 +28,6 @@ This project, **subMyGirl**, is licensed under the [Creative Commons Attribution
 ## 已上传字幕
 | 物料       | 时间       | 导航       |
 |----------------|--------------------|--------------------|
+| 250223彬直播  | 250223      | [链接](https://weverse.io/ohmygirl/live/2-156438404)      |
+| 250302糖直播  | 250302      | [链接](https://weverse.io/ohmygirl/live/4-193668648)      |
 | 10周年[oh my] girl直播  | 250410      | [链接](https://weverse.io/ohmygirl/live/3-196520185)      |
